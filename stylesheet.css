@@ -24,11 +24,9 @@ body {
 
 .main-title{
     padding:100px 80px;
+  　font-size:140px;
 }
   
-.main-title h1{
-    font-size:140px;
-}
 
 .main-contents{
     margin-left:80px;
@@ -59,7 +57,7 @@ body {
   }
 
   .footer{
-    height:120px
+    height:120px;
     padding:40px;
     background-color:#2f5167;
     color:#fff;
