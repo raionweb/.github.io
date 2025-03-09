@@ -15,7 +15,6 @@ body {
 }
 
 .header{
-    width:100%;
     height:90px;
     color:white;
     background-color:#26d0c9;
@@ -25,10 +24,6 @@ body {
     float:left;
     font-size:36px;
     padding:20px 40px;
-}
-
-.main{
-    width:100%;
 }
 
 .main-title{
@@ -58,7 +53,7 @@ body {
   }
   
   .contents-item{
-    
+    width:33%;
     padding-right:40px;
     padding-bottom:100px;
   }
@@ -68,10 +63,6 @@ body {
     padding-top:30px;
   }
 
-  img{
-    max-width: 100px;
-    height:auto;
-  }
   .footer{
     width:100%;
     height:120px;
