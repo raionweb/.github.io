@@ -53,9 +53,9 @@ body {
   }
   
   .contents-item{
-    width:33%;
-    padding-right:40px;
-    padding-bottom:100px;
+    width:100%;
+    padding-right:0 100px 20px 20px;
+    margin:0 auto;
   }
   
   .contents-item p{
