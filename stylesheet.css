@@ -53,7 +53,8 @@ body {
   }
   
   .contents-item{
-    width:100%;
+    width:300px;
+    height:auto;
     padding:0 100px 20px 20px;
     margin:0 auto;
   }
